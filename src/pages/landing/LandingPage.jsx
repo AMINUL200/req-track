@@ -7,7 +7,7 @@ import WhyChooseUsSection from "../../component/landingPageCom/WhyChooseUsSectio
 import StatisticsSection from "../../component/landingPageCom/StatisticsSection";
 import Testimonials from "../../component/landingPageCom/Testimonials";
 import CTASection from "../../component/landingPageCom/CTASection";
-import LatestJobsSection from "../../component/landingPageCom/LatestJobssection";
+import LatestJobsSection from "../../component/landingPageCom/LatestJobsSection"
 import FAQSection from "../../component/landingPageCom/FAQSection";
 
 const LandingPage = () => {
